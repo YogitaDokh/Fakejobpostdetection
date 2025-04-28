@@ -25,26 +25,6 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning (
 
 ---
 
-## 🏗️ Project Structure
-
-FakeJobPostDetection/
-│
-├── app/
-│   ├── app.py
-│   ├── templates/
-│   │   └── home.html
-│
-├── models/
-│   ├── fake_job_post_rf.pkl
-│   └── tfidf_vectorizer.pkl
-│
-├── requirements.txt
-├── README.md
-└── data/
-    └── fake_job_postings.csv
-
----
-
 ## 📈 Model Building 
 
 - **Text Preprocessing** (Lowercasing, Removing special characters)
